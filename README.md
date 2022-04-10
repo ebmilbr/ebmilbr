@@ -1,5 +1,5 @@
-# <abbr title="Exército Brasileiro" lang="pt">E.B.</abbr> :military_helmet: Exército :brazil:  
-Internet Forte :crossed_swords: Teclado Amigo :bomb:
+# <abbr title="Exército Brasileiro" lang="pt">E.B.</abbr> :military_helmet: Exército Brasileiro :brazil:  
+Braço Forte :mechanical_arm: Mão Amiga :handshake:
 
 ## Missão :dart:
 
